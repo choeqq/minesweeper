@@ -1,3 +1,3 @@
 # minesweeper
 
-[check live](miensweeper.netlify.app)
+[LIVE](miensweeper.netlify.app)
