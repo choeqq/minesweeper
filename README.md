@@ -1,3 +1,3 @@
 # minesweeper
 
-[LIVE](miensweeper.netlify.app)
+[LIVE](https://miensweeper.netlify.app/)
